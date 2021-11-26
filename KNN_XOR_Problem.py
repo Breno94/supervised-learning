@@ -21,5 +21,3 @@ knn = KNN(k=3)
 knn.fit(X, Y)
 y_pred = knn.predict(X)
 print(f'Accuracy Score: {accuracy_score(y_true=Y, y_pred=y_pred)}')
-
-print('Test')
