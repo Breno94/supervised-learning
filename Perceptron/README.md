@@ -7,4 +7,4 @@ The perceptron is a single layer of an Artificial Neural Network which uses a st
 In this simple project I worked through concepts of basic linear algebra and good Python programming practices such as the creation of a docstring and the Perceptron class.
 
 As the final result, if the problem is linear separable:
-<img src="https://github.com/brenoingwersen/Perceptron/blob/main/Decision_Boundary.JPG" alt="Screenshot">
+<img src="https://github.com/brenoingwersen/machine-learning/blob/main/Perceptron/Decision_Boundary.JPG" alt="Screenshot">
