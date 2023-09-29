@@ -1,3 +1,3 @@
-# supervised-learning
+# Machine Learning
 
-TBD
+Code snippets on classical machine learning.
